@@ -4,7 +4,7 @@ title:
 ---
 
 This site complements the paper [Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements](https://arxiv.org) by
-[Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA), and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ).
+[Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA) and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ).
 Here we introduce the different robots we used for our work and provide additional information on the datasets.
 Furthermore, we describe our methods, the network architecture, and the training process in more detail.
 
