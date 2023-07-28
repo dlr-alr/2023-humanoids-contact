@@ -16,24 +16,7 @@ A calibration procedure that does not need additional external sensors or tools,
 
 # Video
 ---
-<!-- <p align="center">
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/md97iw4k5eQ"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen>
-</iframe>
-</p> -->
+
 
 # Cite
 ---
-<!-- ```
-@inproceedings{Tenhumberg2022,
-  title={Speeding Up Optimization-based Motion Planning through Deep Learning},
-  author={Tenhumberg, Johannes and Burschka, Darius and B{\"a}uml, Berthold},
-  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
-  title={Speeding Up Optimization-based Motion Planning through Deep Learning}, 
-  year={2022},
-  pages={7182-7189},
-  doi={10.1109/IROS47612.2022.9981717}}
-}
-``` -->
