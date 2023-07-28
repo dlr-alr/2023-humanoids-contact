@@ -3,9 +3,9 @@ layout: page
 title: 
 ---
 
-This site complements the paper Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements by
+This site complements the paper **Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements** by
 [Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA) and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ).
-Here we are calibrating a hand and stuff.
+Here we are calibrating a hand.
 
 ![DLR-Hand II](/assets/imgs/index/pre_post_calibration.jpg)
 
