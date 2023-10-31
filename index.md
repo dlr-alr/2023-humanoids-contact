@@ -4,7 +4,7 @@ title:
 ---
 
 This site complements the paper **Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements** by
-[Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA) and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) accepted for the _2023 IEEE-RAS International Conference on Humanoid Robots_.
+[Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA) and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the _2023 IEEE-RAS International Conference on Humanoid Robots_.
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PoKiGV4_meA?si=TDokjcwuQc6FcWyX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
