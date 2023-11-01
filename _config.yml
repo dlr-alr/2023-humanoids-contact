@@ -2,7 +2,7 @@ theme: minima
 markdown: kramdown
 
 title: |-
-        Self-Contained and Automatic Calibration of a Multi-Fingered Hand
+        Self-Contained and Automatic Calibration of a Multi-Fingered Hand\\a
         Using Only Pairwise Contact Measurements
 
 author: '{johannes.tenhumberg, leon.sievers, berthold.baeuml}@dlr.de'
