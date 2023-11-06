@@ -1,8 +1,9 @@
 theme: minima
 markdown: kramdown
 
-title: Self-Contained and Automatic Calibration of a Multi-Fingered Hand\
-       Self-Contained and Automatic Calibration of a Multi-Fingered Hand
+title: |-
+    Speeding Up Optimization-based Motion Planning 
+    through Deep Learning
 
 author: '{johannes.tenhumberg, leon.sievers, berthold.baeuml}@dlr.de'
 
