@@ -3,7 +3,7 @@ markdown: kramdown
 
 title: |-
     Speeding Up Optimization-based Motion Planning 
-    through Deep Learning
+    through Deep Learning hrough Deep Learning hrough Deep Learning hrough Deep Learning 
 
 author: '{johannes.tenhumberg, leon.sievers, berthold.baeuml}@dlr.de'
 
@@ -16,8 +16,5 @@ exclude:
     - .gitignore
     - Gemfile
     - README.md
-    
-kramdown:
-  hard_wrap: true
 
 
