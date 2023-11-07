@@ -3,17 +3,11 @@ markdown: kramdown
 
 title: |-
     Self-Contained and Automatic Calibration of a Multi-Fingered Hand
+    Using Only Pairwise Contact Measurements
 
 author: '{johannes.tenhumberg, leon.sievers, berthold.baeuml}@dlr.de'
-
-header_pages:
-
-include:
-    - _pages
-
-exclude:
+    
+exclude: 
     - .gitignore
     - Gemfile
     - README.md
-
-
