@@ -7,7 +7,7 @@ This site complements the paper **Self-Contained and Automatic Calibration of a 
 [Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA) and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the _2023 IEEE-RAS International Conference on Humanoid Robots_.
 <p align="center">
 <style>
-    #myFrame { width:100%; height:100%; }
+    #myFrame { width:100%;}
 </style>
 <iframe src="https://www.youtube.com/embed/dkG9xz1fhOU?si=EfWu8aHsvoZlIpHt" id="myFrame" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
