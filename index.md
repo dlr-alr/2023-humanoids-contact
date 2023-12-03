@@ -31,7 +31,7 @@ This site complements the paper **Self-Contained and Automatic Calibration of a 
 /* And set the max-width of the parent element */
 .video-wrap {
   width: 100%;
-  max-width: 600px;
+  max-width: 800px;
 }
 </style>
 </div>
