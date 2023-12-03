@@ -6,7 +6,35 @@ title:
 This site complements the paper **Self-Contained and Automatic Calibration of a Multi-Fingered Hand Using Only Pairwise Contact Measurements** by
 [Johannes Tenhumberg\*](https://scholar.google.com/citations?user=2RZuYZMAAAAJ), [Leon Sievers\*](https://scholar.google.com/citations?user=y-MzVoUAAAA) and [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ) presented at the _2023 IEEE-RAS International Conference on Humanoid Robots_.
 <p align="center">
-<iframe width="728" height="410" src="https://www.youtube.com/embed/dkG9xz1fhOU?si=EfWu8aHsvoZlIpHt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<div class="video-wrap">
+  <div class="video-container">
+    <iframe width="728" height="410" src="https://www.youtube.com/embed/dkG9xz1fhOU?si=EfWu8aHsvoZlIpHt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+</div>
+  </p>
+
+.video-container {
+  position: relative;
+  overflow: hidden;
+  height: 0;
+  padding-bottom: 56.25%; /* creates a 16:9 aspect ratio */
+}
+
+.video-container iframe,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+}
+
+/* And set the max-width of the parent element */
+.video-wrap {
+  width: 100%;
+  max-width: 600px;
+}
 
 # Abstract
 ---
