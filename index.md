@@ -10,6 +10,7 @@ This site complements the paper **Self-Contained and Automatic Calibration of a 
   <div class="video-container">
     <iframe width="728" height="410" src="https://www.youtube.com/embed/dkG9xz1fhOU?si=EfWu8aHsvoZlIpHt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
+  <style>
   .video-container {
   position: relative;
   overflow: hidden;
@@ -32,6 +33,7 @@ This site complements the paper **Self-Contained and Automatic Calibration of a 
   width: 100%;
   max-width: 600px;
 }
+</style>
 </div>
   </p>
 
